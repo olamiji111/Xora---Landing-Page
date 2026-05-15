@@ -2,20 +2,20 @@ export const features = [
   {
     id: "0",
     icon: "/images/feature-1.png",
-    caption: "Easy integration",
-    title: "Work smarter not harder",
-    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+    caption: "Running in your profile automatically",
+    title: "I do smarter Trading for better returns",
+    text: "With ORION Trading Robot, manual trading is a thing of the past. Once you make a deposit, I begin trading on your profile automatically. Your trades will be visible within 24 hours in your open and closed orders, showing how I’ve managed and executed trades for you.",
     button: {
       icon: "/images/magictouch.svg",
-      title: "Watch the demo",
+      title: "Discover More..",
     },
   },
   {
     id: "1",
     icon: "/images/feature-2.png",
-    caption: "Secure & trustworthy",
-    title: "Sleep easy, we got your back",
-    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
+    caption: "Reliable and Secure",
+    title: "Sleep easy, ORION Robot manages your trades",
+    text: "    ORION prioritizes trade accuracy with advanced loss-prevention controls to help protect your capital",
     button: {
       icon: "/images/docs.svg",
       title: "Read the docs",
@@ -27,130 +27,129 @@ export const details = [
   {
     id: "0",
     icon: "/images/detail-1.png",
-    title: "AI automated video editing",
+    title: "Smart Trade Execution system",
   },
   {
     id: "1",
     icon: "/images/detail-2.png",
-    title: "Collaborate with your team",
+    title: "Connect and Collaborate with AutoTraderInc Users.",
   },
   {
     id: "2",
     icon: "/images/detail-3.png",
-    title: "Ultra fast cloud-engine",
+    title: "Ultra-fast Trading Engine",
   },
   {
     id: "3",
     icon: "/images/detail-4.png",
-    title: "24 / 7 Customer support",
+    title: "24/7 Instrument Analysis and trade execution",
   },
 ];
 
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "What is ORION Trading Robot?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "ORION is an AI-powered autonomous trading system designed to analyze markets, execute trades, and manage trading activity directly on your AutoTraderInc profile.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "How does ORION start trading?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Once your profile is funded, ORION automatically begins analyzing market opportunities and executing trades based on intelligent trading strategies.",
   },
   {
     id: "2",
-    question: "How often do you add new content?",
+    question: "Where can I see my trades?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Your trading activity can be viewed inside your Orders and Closed Positions sections after ORION completes trade execution.",
   },
   {
     id: "3",
-    question: "What your refund policy?",
+    question: "Is ORION fully automated?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes. ORION is designed to operate autonomously using advanced market analysis, execution systems, and intelligent risk management techniques.",
   },
   {
     id: "4",
-    question: "Do you have corporate plans?",
+    question: "How does ORION manage trading risks?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "ORION uses advanced loss prevention controls, intelligent market analysis, and risk management systems to help reduce unnecessary exposure.",
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "Is ORION free to use?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes. ORION Trading Robot is available free for all registered AutoTraderInc users.",
   },
   {
     id: "6",
-    question: "Can I upgrade my plan?",
+    question: "Does ORION trade 24/7?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes. ORION continuously analyzes market instruments and executes trades around the clock when trading opportunities are identified.",
   },
   {
     id: "7",
-    question: "How do I invite my team?",
+    question: "Can I monitor ORION’s activity?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Absolutely. You can track ORION’s trading performance, execution history, and account activity directly from your dashboard.",
   },
   {
     id: "8",
-    question: "Do you offer training for individuals and teams?",
+    question: "How secure is my account with ORION?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Your account and trading data are protected using advanced encryption, secure authentication systems, and robust privacy protection technologies.",
   },
   {
     id: "9",
-    question: "I’m locked out of my account what do I do?",
+    question: "What makes ORION different?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "ORION combines AI-driven market analysis, autonomous trade execution, intelligent risk control, and high-speed processing into one powerful trading system.",
   },
 ];
-
 export const plans = [
   {
     id: "0",
-    title: "Core",
-    priceMonthly: 19,
-    priceYearly: 12,
-    caption: "Best for solo creators",
+    title: "Core Access",
+    priceMonthly: 0,
+    priceYearly: 0,
+    caption: "Free access to ORION Trading Robot",
     features: [
-      "100MB Cloud storage",
-      "100+ prompt templates",
-      "5 projects",
-      "24/7 support",
+      "ORION automated trading access",
+      "Basic market analysis",
+      "Standard execution engine",
+      "24/7 system availability",
     ],
     icon: "/images/circle.svg",
     logo: "/images/plan-1.png",
   },
   {
     id: "1",
-    title: "Overdrive",
-    priceMonthly: 79,
-    priceYearly: 59,
-    caption: "Most popular plan",
+    title: "Advanced Engine",
+    priceMonthly: 0,
+    priceYearly: 0,
+    caption: "Enhanced trading intelligence",
     features: [
-      "All Starter features",
-      "1TB additional storage",
-      "Unlimited projects",
-      "Analytics",
+      "Everything in Core Access",
+      "Advanced market analytics",
+      "Faster trade execution engine",
+      "Risk optimization tools",
     ],
     icon: "/images/triangle.svg",
     logo: "/images/plan-2.png",
   },
   {
     id: "2",
-    title: "Team",
-    priceMonthly: 39,
-    priceYearly: 29,
-    caption: "Exclusively for teams",
+    title: "Pro Trader",
+    priceMonthly: 0,
+    priceYearly: 0,
+    caption: "Full ORION trading system",
     features: [
-      "All Overdrive features",
-      "10TB additional storage",
-      "50% off per member",
-      "Real-time collaboration",
+      "Everything in Advanced Engine",
+      "Full autonomous trading system",
+      "Real-time trade optimization",
+      "Priority execution speed",
     ],
     icon: "/images/hexagon.svg",
     logo: "/images/plan-3.png",
@@ -160,54 +159,53 @@ export const plans = [
 export const testimonials = [
   {
     id: "0",
-    name: "Jessica Saunders",
-    role: "Globalnomads",
+    name: "Daniel Morgan",
+    role: "Forex Trader",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+      "I connected ORION with my external broker and started seeing automated trading activity within hours. The execution speed is impressive.",
   },
   {
     id: "1",
-    name: "Mark Erixon",
-    role: "Vid capital intl",
+    name: "Sophia Bennett",
+    role: "Crypto Investor",
     avatarUrl: "/images/testimonials/mark-erixon.png",
     comment:
-      "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
+      "At first I was cautious, but ORION’s market analysis and autonomous trading completely changed my trading experience.",
   },
   {
     id: "2",
-    name: "Melanie Hurst",
-    role: "Cyberleap",
+    name: "Michael Carter",
+    role: "Independent Trader",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
-      "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
+      "Integrating my broker account with ORION was seamless. It now handles trades more efficiently than I ever could manually.",
   },
   {
     id: "3",
-    name: "Alicia Barker",
-    role: "Cyberleap",
+    name: "Emily Roberts",
+    role: "Financial Analyst",
     avatarUrl: "/images/testimonials/alicia-barker.png",
     comment:
-      "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
+      "ORION’s intelligent execution system and risk management controls make trading feel smarter and more secure.",
   },
   {
     id: "4",
-    name: "Becky Snider",
-    role: "Floclips",
+    name: "Jason Miller",
+    role: "Stock Trader",
     avatarUrl: "/images/testimonials/becky-snider.png",
     comment:
-      "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
+      "Since connecting ORION to my broker, I’ve noticed more disciplined execution and better trade consistency.",
   },
   {
     id: "5",
-    name: "Jim Bradley",
-    role: "Vid capital intl",
+    name: "Olivia Hayes",
+    role: "Market Investor",
     avatarUrl: "/images/testimonials/jim-bradley.png",
     comment:
-      "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",
+      "ORION transformed the way I trade. The automation, analysis, and real-time execution work together perfectly.",
   },
 ];
-
 export const logos = [
   {
     id: "0",

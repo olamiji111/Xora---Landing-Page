@@ -70,9 +70,9 @@ const Header = () => {
                     )}
                   >
                     <img
-                      src="/images/xora.svg"
-                      width={160}
-                      height={55}
+                      src="/images/xora.png"
+                      width={80}
+                      height={35}
                       alt="logo"
                     />
                   </LinkScroll>
@@ -81,7 +81,7 @@ const Header = () => {
                 <li className="nav-li">
                   <NavLink title="faq" />
                   <div className="dot" />
-                  <NavLink title="download" />
+                  <NavLink title="download App" />
                 </li>
               </ul>
             </nav>
